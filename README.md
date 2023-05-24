@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hello, Folks 👋
 
-<!--
-**filipedigifarma/filipedigifarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A litle bit of me
+- I'm working in [Digifarma](https://www.digifarma.com.br) as Senior Programmer.
+- I'm an eternal learner.
 
-Here are some ideas to get you started:
+## Things that i like!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://img.shields.io/badge/firebird-sql-orange)
+![](https://img.shields.io/badge/-react%20native-blue)
+![](https://img.shields.io/badge/-delphi-red)
+
+
+********
+
+<details>
+  <summary>📊 Github Stats</summary>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=filipedigifarma&show_icons=true&theme=gotham" alt="Filipe Teixeira" /> 
+    
+
+</details>
